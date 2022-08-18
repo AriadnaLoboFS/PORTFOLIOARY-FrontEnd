@@ -1,0 +1,10 @@
+.imagen-curso{
+    width: 10%;
+    display: inline;
+    float: left;
+}
+
+.info-curso{
+    display: inline;
+    float: right;
+}
