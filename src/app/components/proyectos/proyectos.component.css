@@ -1,10 +1,7 @@
-.imagen-curso{
-    width: 10%;
+#info-proyecto{
     display: inline;
-    float: left;
 }
 
-.info-curso{
-    display: inline;
-    float: right;
+#imagen-proyecto{
+    float: left;
 }
